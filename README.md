@@ -1,5 +1,5 @@
 # -Fogo-de-Luta-Livre-
-JOGO DE LUTA E SEM ANÚNCIOS.
+JOGO DE LUTA
 
 import pygame
 import sys

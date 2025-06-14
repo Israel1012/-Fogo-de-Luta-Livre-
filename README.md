@@ -1,6 +1,3 @@
-# -Fogo-de-Luta-Livre-
-JOGO DE LUTA
-
 import pygame
 import sys
 
